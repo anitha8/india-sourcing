@@ -16,7 +16,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "export": "rm -rf dist && mkdir dist && dist --copy-files"
+    "export": "rm -rf dist && mkdir dist"
 
   },
   "eslintConfig": {
