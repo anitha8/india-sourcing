@@ -1,0 +1,185 @@
+{
+  "Header": {
+    "title": "A new era for sourcing.",
+    "paragraph": "Outsource your projects to india sourcing to benefit from immediate value global capability, quality, cost and delivery."
+  },
+  "About": {
+    "paragraph": "India Sourcing is a global sourcing service provider and with team of engineers who have more than 15 years of experience in sourcing low cost subassemblies, sourcing, prototyping, serial productionizing for automotive, railways, construction, heavy machineries and medical products. Established in 2022, India Sourcing identified and refined competitive global sources for a leading product manufacturers. The need for achieving greater economies of scale eventually led to the formation of key business relationships with like-minded manufacturers.",
+    "paragraph1": "Because of our in-depth understanding of how critical a reliable supply chain is to every manufacturing operation, we evaluate global sources to exacting standards for technical and logistical strength. Working with a dedicated strategic sourcing consultant, you’ll receive personalized service that guarantees growth and prosperity for your company. Our quality assurance program includes a preliminary feasibility analysis, inspection guidelines, and production reports to ensure we exceed our customer's expectations.",
+    "Why": [
+      "Lorem ipsum dolor",
+      "Tempor incididunt",
+      "Lorem ipsum dolor",
+      "Incididunt ut labore"
+    ],
+    "Why2": [
+      "Aliquip ex ea commodo",
+      "Lorem ipsum dolor",
+      "Exercitation ullamco",
+      "Lorem ipsum dolor"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "Procurement Strategy",
+      "text": "We deliver on time best quality, service, low cost and on time delivery."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Procurement Outsourcing",
+      "text": "Make better sourcing decisions with spend analysis insights by out team. We negotiate best-value agreements for sustainable savings."
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Global Connections",
+      "text": "We provide global sourcing, as countries` relative competitive advantages shift rapidly this leads directly to reduced competitive advantage."
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Assistance in cost-cutting opportunities",
+      "text": "We can help you cut unnecessary expenses by centralizing and streamlining spending. Our team will look at your organization as a whole and purchase the goods and services that you need on a budget."
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Shipping and Logistic Services",
+      "text": "Your timeline is our timeline. We has long-established relationships with both local and international shippers, and we're experts in all applicable shipping regulations. Our knowledgeable logistics teams can work to ensure that your products are delivered when and where you need them, as efficiently as possible."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Prototyping and Serial Production",
+      "text": "With our prototypes, we turn products into reality. We can produce them in a variety of ways using final, similar or composite materials, depending on your lead time and needs. The key reason our customers continue to re-order from us, is because we make offshore production easy. We cut through language and time zone barriers that typically hamper production schedules to deliver your products on time, on budget and with no surprises."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "4321 California St, San Francisco, CA 12345 ",
+    "phone": "+1 123 456 1234",
+    "email": "info@company.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    }
+  ]
+}
